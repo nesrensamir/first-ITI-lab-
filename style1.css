@@ -1,0 +1,18 @@
+#page
+{ 
+    position: relative;
+    top:100px
+} 
+
+.sec
+{
+    display:inline-block; 
+    
+} 
+#ad 
+{
+position: absolute;
+  top: 230px;
+  right: 500px;
+  
+}

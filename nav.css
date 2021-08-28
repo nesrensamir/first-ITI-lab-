@@ -1,0 +1,33 @@
+.navbar__menu li {
+    display: inline-block;
+    padding: 1em; 
+    color:white;
+    
+} 
+.page__header {
+    background:black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:2;
+    
+    
+} 
+#logo 
+{
+    z-index:100; 
+    position: fixed; 
+    right:0;
+    top:0;
+} 
+a
+{
+    color:rgb(172, 113, 66);
+  
+}
+
+li:hover
+{
+    background-color:  white; 
+   
+}
